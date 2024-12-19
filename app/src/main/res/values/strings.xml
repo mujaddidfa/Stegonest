@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stegonest</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="key_hint">Enter 16 digit key</string>
+    <string name="encode_hint">Text to Encode</string>
+    <string name="image_to_encrypt_hint">Add Image to Encrypt</string>
+    <string name="image_to_decrypt_hint">Add Image to Decrypt</string>
+    <string name="hidden_data_hint">Hidden Data will be Shown Here</string>
+</resources>
