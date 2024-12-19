@@ -88,7 +88,6 @@
                 android:layout_toEndOf="@+id/img_text"
                 android:background="@android:color/transparent"
                 android:hint="@string/encode_hint"
-                android:maxLength="16"
                 android:maxLines="1"
                 android:paddingTop="12dp"
                 android:paddingBottom="12dp"
